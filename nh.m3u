@@ -1,79 +1,269 @@
-#EXTM3U x-tvg-url="" tvg-shift="0"
-#EXTINF:-1 tvg-name="Ananda TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/Anandatvupdate-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",Ananda TV
-https://go.skym3u.dev/live/60184b/adb7e36222f724cda9e3737a12e2f4997b8fe425061f92a5b38f7393a5d9f09402a9e9e23ece194a8ff3d98867647cca1e02880055b7e1e342ec0136ca5262c298fdb1de6650d7b5ff082d360aa74a902e448ff02c75f992a6136c2a7aad9d8c49.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Asian TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/asiantv-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",Asian TV
-https://go.skym3u.dev/live/60184b/a4b588d5b91203bf16a0451fa9dc214832388f63db1208f360dcaedf7fb058fd21653093fea04b6682238f646aa03ead0b62fbc937b558877514ee162ac8bf76a0e99b81ec60ecf132042fea16df527607886233450deaaec30518d447a4cc7b42.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Bangla TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bangla-tv-9e5f3366c8.png?ref=skym3u.dev" provider="skym3u.dev",Bangla TV
-https://go.skym3u.dev/live/60184b/4bbb63d716c3abbd6145ca6a03726a50dbeea4b9bace805bbd6c8e8c7c35ad3c56be316c63c22c06e9576b8e8e65bdc997bf0e812f56ec66ed76ac3811d73091aaf6010511533aef34f4878f60ddee71d403f81d3e2063ceec3ff12972b31f5f16.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Bangla Vision" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/banglavision.png?ref=skym3u.dev" provider="skym3u.dev",Bangla Vision
-https://go.skym3u.dev/live/60184b/140bc8ebf744c230de2e3646497b0d18118223652baac1eaba59fcc6d6fe39e4ae424869018ba79788c14f40efab66d6616322acb4dda31a4f1312a5d1499c83d32e954f3a21b3b08e927e2fc7efe7ae836088adc9db7a3328.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Bijoy TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/bijoy-tv.png?ref=skym3u.dev" provider="skym3u.dev",Bijoy TV
-https://go.skym3u.dev/live/60184b/b898cfaafb3f9e9d3ca06248a3d416d97ba9053c5722b9fe57d447f4f0cc2362fa1a1cbbff949e378fdb2e7d67b0617022cc10e82c514f6ac3f8a809956bb7befa4d7f187fe520743199be257266693734c7ca8b587e20b40d5331f6b61385426e.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Boishakhi TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/BoishakhiTV-150x1501.jpg?ref=skym3u.dev" provider="skym3u.dev",Boishakhi TV
-https://go.skym3u.dev/live/60184b/4b79059ba5979c8bbdbea11b210e354d5e7abb6a680667b43fd003c52c27810fabf0e873b19deb94447e2afae9fed8ad5ce28dbf59081eb2ec9340e0f506c5c6b16a385d258ebf8f12ef9c0ba6bfddc876919d81f46d69a523bf9c9de35400134c.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="BTV CTG" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/0cff8323fa888ccb69dde38a6880f150.jpg?ref=skym3u.dev" provider="skym3u.dev",BTV CTG
-https://go.skym3u.dev/live/60184b/8cfb3913bc6cd939073e73105f9765bd39de4336b0cc2f9cba5f5ceb5b62338e837a12e5f727b5854b80b5bcc6efec4f5d511a0d98c5ca745ee188216ae6a68cca09ab6ed5172eebe5d4daa9da8d1e1ad1cc65b6aae551b3ed67072c23f5ee4c83.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Channel 24" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel24-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",Channel 24
-https://go.skym3u.dev/live/60184b/6dff7a8f6fca302e867453b87e899f052c78f4b5f4cd42685def5f3c82c1c817199c78c19276f0ac1333afb833bb2a8620b676b998fe7b263c3e84cb0f5021f2addeb9e72edac93d7d5447ebea2544b792366daa39d0a73b8f.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Channel 52" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-52.png?ref=skym3u.dev" provider="skym3u.dev",Channel 52
-https://go.skym3u.dev/live/60184b/459b1d4fdb2cb836101018fef4d9aeef25833b249035240a863d2ed34661d9159d8c871456c3fa09efda29f0aed22bd88d4291c9cff98339ef845d4c6f02fef9c7530aed07be1bc5b5d3c4605511d62eb8c8f0718f8a.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Channel 9" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ch9-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",Channel 9
-https://go.skym3u.dev/live/60184b/5ca5735c2641bb4853f23cf3e13245f43b33d14ec454065492d54e5b6fea152738b05d1c8bdc3a4b9f126385f223808122b2ebe9d61f1aa3c93b3a35f8f64581c2cbbd28c06c4240bed4ee9e888b75176e8d1471071614637e6281.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Channel I" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/channel-i.png?ref=skym3u.dev" provider="skym3u.dev",Channel I
-https://go.skym3u.dev/live/60184b/7c83a483066493fa3b5110c2997f0141bdab5b85ea0bcb9981fad53e6b76fe758a02195629c8340b401e1f65effa077c599cbd0af8f155961de3f69cbf2d02e6d043b04b3db92ee9ed42a73b4286fe53b9f520cfd7c081ce05ef2d765e217f14e0.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="DBC News" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/dbc-news-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",DBC News
-https://go.skym3u.dev/live/60184b/460a21588cdd3d816b7ece4f1d874f282037ba35049cbca6fd839b9423fd31aa456d94db73e311ee0c6a724cb78580a6317f0078e9e087a82e21ffdaac786be84d076507a2e683260b23e36c93feb95d1f75b7fae915c5632dde88edf87a5ccf44.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Desh TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/DESH-TV1-150x150.png?ref=skym3u.dev" provider="skym3u.dev",Desh TV
-https://go.skym3u.dev/live/60184b/521ee249c89e6fd4e14796be606ca18ded419a570b47a158a6c8c134d5777cea60f46b368b73bdba115acb1a2e03aecee82c110d0ebabdc5990a7c8a808f203913db027f23281d5f3c52cc4951595416a7bfc389b97ce81f98bea2dfc5f2d565d5.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Drama 24" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/30554e50000b538aef52a9181052af56.jpg?ref=skym3u.dev" provider="skym3u.dev",Drama 24
-https://go.skym3u.dev/live/60184b/ff6457016ffb8cb7e8a76ee6d746487128c5827c93495a2ce3020c0478acc755f156d22266c55cec8fc16714036d884c022c2da9f6e6383909425c7a831e06fe5e8447d7fa0a1b8725f79392272a88638e823ac68a49ceb6.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Ekattor TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekattors-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",Ekattor TV
-https://go.skym3u.dev/live/60184b/7ac00fe6b0a0b10ea15c462c3844e9059f32c0b270812a96365d8cdbf1857d9533be604957116fe2522663563ded918df5b1141aa7cb5ce69f7ebfbe304b969d465019991133076e6fd6187537232fa63c2135ee7ebb4da9b5532e0a810b4effb4.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Ekhon TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ekhontv-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",Ekhon TV
-https://go.skym3u.dev/live/60184b/8498d6c69102bdf08a49ac64ffa3af218ac7284a4442482e509ace87f964a1024e42c4ec3125a12f9692c6d83919cc71e6ba4e6d42ae8db12fbe108dcabfdde222e42b027507cdd950102e26a02555c9c0fca7cdcddb9590e2bd60fdf7d6d61510.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="ETV" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",ETV
-https://go.skym3u.dev/live/60184b/4b3081150633057da4311a0926644d2d80b62c3cb27d2baedfa6aeb82b66b99db2f87179a38a986e77240cb56f6468e1d19c1f6f25633ffe35308886a15eeaba13d482a16eff9cd8add837c2bc845986654973860dbc6c9e6b.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="G Series Drama" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-series-drama.png?ref=skym3u.dev" provider="skym3u.dev",G Series Drama
-https://go.skym3u.dev/live/60184b/339a403a83ed5f6ed785c09469d90431c6cb83884f09ab23d7bbe459f08faa5f881bfae119469818c37ad067d832d658eadafb4872d67b3eca9ff1eb63c6d0d7cfc29069dc11d9db1e0549469f8a5786a27ab3cd4d61486ebd8d2c487a4549293f8f9238543f.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="G TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/g-tv.png?ref=skym3u.dev" provider="skym3u.dev",G TV
-https://go.skym3u.dev/live/60184b/9cfa14cc0567370434d06fd1b575c56ebca7e1fdcb75cba9660e1cfa6b0d717652658d5197957f72c40bf16de56afc88404876789021596c8e3f147243b80b90e149a666be8009855bd6f242fc1e406b2c953ea149ccfd2b48891cf9ed06011121613465ce7fc841e80263c5c8930480008e43009e72e6e4dd68f17fc3c4a01af9d2122ca836787e6df7165388b5cc3e1f381b183363b1a2f7051e59f12732b00f668369db48527b1c61568301ea8fcae82fa72178baac44e156ed3784386624f9954c6d770031ff71e5563aded9b70515c1568834804044bd006ca6f1e78a4349203cbb8d22.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Global TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/global-tv-1080p-5ffc043912.png?ref=skym3u.dev" provider="skym3u.dev",Global TV
-https://go.skym3u.dev/live/60184b/b457930b8c696a21699d3a294d42415958a4eef0b38ec7c523e1d3ab3311a3a9c1b2060b2e5a70d048d098427220bd9444d4e50fe6ed8c5e3076c09647902362761de49d5b6d16afb9be7266f484eb25aad0fb4e561f17f69716baf664c39d4ba9.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Independent TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/inds-150x150.png?ref=skym3u.dev" provider="skym3u.dev",Independent TV
-https://go.skym3u.dev/live/60184b/7ae370846c0410e8248a5c0065f08d700f8cc61c81736fa6bc62bafca69941b403e9b42ef9fd65ec4edd54681fc80328d837bf613cadcd951a23dd865e459a9e0795e22e10c93d5dcab9c7d30c9e0050eb7860697a5a4795afeb42e71e7c33f779.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Jago News 24" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/pran-RFL-150x150.png?ref=skym3u.dev" provider="skym3u.dev",Jago News 24
-https://go.skym3u.dev/live/60184b/5a0e5673b91156acf3f026a20dd3a6a17ab0ec5387986cf862ce8359e7ef5e3df779852e57cea77eb108635c81deaf7fd9d5cb5739664fb39d4cec37f6648bdcca4d8af33bf42ba01ad802a5ec3131a73e91d0a9d937c2de421b64ef65c25d08603dca90239679c0.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Jamuna TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/jamuna-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",Jamuna TV
-https://go.skym3u.dev/live/60184b/f2aafb5970871706492618286081e67a9c098265cb113284d4408d4cd41ebf99a22ddf8f2adb97af7af0ff1ebd5bab3792596ae245cb3a366989c0c42e84191db6acf10dcfcc6fdec953151123327696a60c9d8144a40e6cfbdfef3dc1d590e009.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Maasranga TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/maasranga-tv.png?ref=skym3u.dev" provider="skym3u.dev",Maasranga TV
-https://go.skym3u.dev/live/60184b/e16a411eb658a3596d96b6743c12e709807e6b92976138905b04fffd38e7a378c03d998ce841f4e9cae67a223e45ca39ff92fc146e25310c641f98f853071d98796ec9c893390deff6ee699b5e616f2861e65107b7b8adb5.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Mohona TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mohona-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",Mohona TV
-https://go.skym3u.dev/live/60184b/6e4f76f3eff30fc413cd68189bb76e7ae1fc989fa469e723d0b7568910c79bd8f905faa7aadbec398dbc301452341b98357706c39390dd92584dca952fdcfbd9c1eeb28c571299826ed4e6b0ec806574828a5aaa441603df89cece03cb2ced7480.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Movie Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/moviebangla-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",Movie Bangla
-https://go.skym3u.dev/live/60184b/6b47bce40b803cb946544f4d698015ec9c941549afcd8571bcdb7e1bdcf5647dcbd489ae6dfe035d84eb63a864be989c0eb8a318fbe4397a77797722e81288b306cd705d4d180ffe498ca28856c082ef1250e2dcc983.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="My TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/mytv-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",My TV
-https://go.skym3u.dev/live/60184b/e3614db5532987d2eb1408a1497ac25c09ff0a3a2fcb7aea2a127309b47be19126dbe04fbbfaad02f4e449e8c85766364ef6c618062c1e723932531a2ce0dff79fa343afafa7ba213a78dcdf8bc0221b25ad9c47783a03fff42a8c194d61f6d86f.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="News 21" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/news-21-bangla-tv.png?ref=skym3u.dev" provider="skym3u.dev",News 21
-https://go.skym3u.dev/live/60184b/372d0a0bb1d09b49d7aa0e8feb37825be806280533ff71796664be9446927a26ee7c4b7a86f9bdbb08273c98ee6e642fb36d20781cfdb9deaaa83d3cd55d456eaabdab6730ee3fdef7ff4ddf2577002531cc9d55783420502e7b393b86af5b.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="News 24 BD" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",News 24 BD
-https://go.skym3u.dev/live/60184b/b37be6c3c0fada683d4201ad298551a59c1428f9be3bb0935eeaa0950201c34284c6853616f9fae731d4632078bb47cf68ab754190b3b67bde03f86fc2aa7816c0496c5c82f9a46898365c8340d6b1e885e751c0e15c3c7e993186f4036b140289.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="NEXUS TV" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",NEXUS TV
-https://go.skym3u.dev/live/60184b/558bd6de437144144ac1aef4c01762d01349a9bb49589c6be3a54dce255b0f2c00176fccf1a96bf0f610cc1dc540b5a25bbb19cd034467f1b24ffd72f74bf30e257099544da9abab28036e87c4b2edfd5c354b928b.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/ntv.png?ref=skym3u.dev" provider="skym3u.dev",NTV
-https://go.skym3u.dev/live/60184b/03184c19326600341820ced36f1f068e5f1cef58834e3a0ac4d515be5e0296b8557147a40fe544e3e8471249cfc7c53db2b903a1aaef794450c9b34c88220348878e0ea3e96199dce1d39f5c29c879e8be5b22dcf5aea1bdc6.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="RTV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/rtvbd-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",RTV
-https://go.skym3u.dev/live/60184b/b7c3ab4404d5393ef41442e13ad8137ee1fcbc84c0214640ec0bd145152f3288e98e749ab4e405900d077cd30b698ac2739e45d9ef460e2efcea2d48f95a305158e73a8c94358cea8182ca139a1c1f0a516d7c752a2e1e1822.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="SA TV" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/satvs-150x150.jpg?ref=skym3u.dev" provider="skym3u.dev",SA TV
-https://go.skym3u.dev/live/60184b/5c93885bf147d822c120362d53d9f2793ce46af2b146dfa07d03a49834da7a1809f902570b935b4e6f12cb0abaa35b4b2035406a8b544fe9b45a4975f118abf65f58563f7748f1de4e4ca6d18066a7510ec3cbc61fc59fbe940600025fc8b0b776.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Sananda" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sananda-64faf3c524.png?ref=skym3u.dev" provider="skym3u.dev",Sananda
-https://go.skym3u.dev/live/60184b/35363a4aec65314db4f6555eadf1aaa0698145945251103bbe67d937469322210886770d968df2f4ea45b2cfc02905b63e735c95964c2906b42f7449efd0eeb9e9a90cf5b5bd6330ea63544bce26b22e526d61fa01f10ce7728cbf49d7b7055dffdbf042e8fbd62f.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Sangeet Bangla_35" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/sangeet-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Sangeet Bangla
-https://go.skym3u.dev/live/60184b/91b416d477379fbd7c81b0cf7711446da06f8ca7b0bb25da918174746537e18e0a2121673b44d685975cc81a1cdca7b8902768c1365443b5b9552dade09f7d04ac5306625d40c0e85d35ab9d488073fafe8aeb0a1afdd58374d5408342b5e6c4eb.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Somoy TV_30" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/somoy-tv.png?ref=skym3u.dev" provider="skym3u.dev",Somoy TV
-https://go.skym3u.dev/live/60184b/3fb426c632c78d132f572701a3688bceabbac4299ca19b1cc49522369302664089ce85e0c1b359f814e30acb6129ce4371d95f804fab453c3c9fdfb8c5d4fbe7293ac6ddddd73999ee8bb631a420193a08f0bced49f19a6b52d447450f2ce55b56.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Star Jalsha" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/star-jalsha.png?ref=skym3u.dev" provider="skym3u.dev",Star Jalsha
-https://go.skym3u.dev/live/60184b/8ea5f031206f675648265af88e35278685cc994eb7755c8b5bfb1e958659552e32ca0eb80967bc3fd8d1ee0b092bb1e256a53b7e288b1f04f4534987e3061b8e22fedab18c983e6f3faf570ea0384df34c3f9f41fe7808a6638c57021e0df123daf80a8faa0ef8a676cf5c7a8f4f3e07273cfb194780fc543117542361aacfc7ba.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="T Sports HD" tvg-logo="https://imgur.com/79g2kMA.png?ref=skym3u.dev" provider="skym3u.dev",T Sports HD
-https://go.skym3u.dev/live/60184b/a822fd6f1adbe3a3dbe72993d2c725e577133ab483c8d8137a40c670d18fe649d76ea4f435180db0ea1ba0537d73d711652bc396c83e0d2b915ed0bc98e648110ad89bb6f5e837e7813adb935644a754c4715d4f67929e33d183575b0f6e.m3u8?s=open&id=b2ch.m3u
-#EXTINF:-1 tvg-name="Zee Bangla" tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/main/images/zee-bangla.png?ref=skym3u.dev" provider="skym3u.dev",Zee Bangla
-https://go.skym3u.dev/live/60184b/c8419e69452fb498534d4e0ca043df49b5eefbaf0d105e8bf7106e8c5ffafab53ab2aa49090c4336d0a9d6c539ca35c4dbec5c4cc7491bf2f082c1fba1d6703fd05c014f339d7edcae5dce93e78bcd97d4abfaf15a95.m3u8?s=open&id=b2ch.m3u
+#EXTM3U
+#EXTINF:-1,BTV CTG
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1,Jamuna TV
+https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
+#EXTINF:-1,News 24 HD
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Ekattor TV
+https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
+#EXTINF:-1,SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+#EXTINF:-1,ATN News
+https://tvsen6.aynaott.com/da6WMXAk/index.m3u8
+#EXTINF:-1,ATN Bangla
+https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
+#EXTINF:-1,NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Deepto tv
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
+#EXTINF:-1,Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#EXTINF:-1,Deepto
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/index.m3u8
+#EXTINF:-1,Jago News 24
+https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
+#EXTINF:-1,MAASRANGA HD
+https://mtv.sunplex.live/MAASRANGA/index.m3u8
+#EXTINF:-1,Channel S
+https://app.ncare.live/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1,Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
+#EXTINF:-1,Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1,Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1,Premier Sports 2
+https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
+#EXTINF:-1,Star Jalsha HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
+#EXTINF:-1,Ananda TV
+https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1,ATN Bangla UK
+https://app.ncare.live/live-orgin/atnbanglauk-off.stream/playlist.m3u8
+#EXTINF:-1,Bangla TV
+http://116.204.149.16/banglatv/index.m3u8
+#EXTINF:-1,Bangla Vision
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1,Channel I
+https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
+#EXTINF:-1,Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1,Deshi TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1,Enter TV
+https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1,Jalsha Bangla BD
+https://dish.porosh.com.bd/hls/jalshabangla.m3u8
+#EXTINF:-1,Mohona TV
+https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1,My TV
+https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
+#EXTINF:-1,NRB TV
+https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
+#EXTINF:-1,NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1,Probashi TV
+http://158.69.24.53:8080/probashi_tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,RTV
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+#EXTINF:-1,SA TV
+http://116.204.149.16/satv/index.m3u8
+#EXTINF:-1,Ruposhi Bangla
+https://mumt05.tangotv.in/87NeALx2RUPASIBANGLA/index.m3u8
+#EXTINF:-1,Sananda
+https://live.sanandatelevision.in/sananda/index.m3u8
+#EXTINF:-1,Sangeet Bangla
+https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
+#EXTINF:-1,Star Jalsha
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+#EXTINF:-1,BANGLAVISION
+https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
+#EXTINF:-1,Rajdhani TV
+http://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
+#EXTINF:-1,MY TV
+http://116.204.149.16/mytv/index.m3u8
+#EXTINF:-1,RTV
+http://116.204.149.16/rtvhd/index.m3u8
+#EXTINF:-1,CHANNEL I
+https://tvsen3.b-cdn.net/qUud8Nxs/index.m3u8
+#EXTINF:-1,News 21 Bangla TV
+http://103.190.133.68:1935/news21live/live/playlist.m3u8
+#EXTINF:-1,AKASH AHTT
+https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Asian TV
+https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
+#EXTINF:-1,ATN Bangla
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1,BTV National
+https://btv.hridoytv-channel.workers.dev/btv.m3u8
+#EXTINF:-1,BTV News
+https://btv.hridoytv-channel.workers.dev/news.m3u8
+#EXTINF:-1,Channel 24
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
+#EXTINF:-1,DBC News
+https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
+#EXTINF:-1,Desh TV
+https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
+#EXTINF:-1,Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1,Ekushey TV
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+#EXTINF:-1,G Series Drama
+https://vods2.aynaott.com/gseriesDrama/index.m3u8
+#EXTINF:-1,Independent TV
+https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
+#EXTINF:-1,Maasranga TV
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+#EXTINF:-1,ME TV
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1,News 24
+https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
+#EXTINF:-1,Enterr10 Bangla
+https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
+#EXTINF:-1,Jalsha Movies HD [Backup 1]
+https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
+#EXTINF:-1,R Plus Gold [Backup 1]
+https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1,Rongeen TV [Backup 1]
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Ruposhi Bangla [Backup 1]
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:rupashibangla.smil/playlist.m3u8
+#EXTINF:-1,Sananda TV
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1,Somoy tv
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
+#EXTINF:-1,Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8?e=1784102563&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b5e80a73380863be907284374bdb2bda
+#EXTINF:-1,Jhankar TV
+https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
+#EXTINF:-1,Ruposhi Bangla [Backup 2]
+http://103.175.73.12:8080/live/664/664_0.m3u8
+#EXTINF:-1,Sangeet Bangla [Backup 1]
+http://103.175.73.12:8080/live/379/379_0.m3u8
+#EXTINF:-1,Star Jalsha [Backup 1]
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
+#EXTINF:-1,Star Jalsha [Backup 3]
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
+#EXTINF:-1,Zee Bangla [Backup 2]
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98881.ts
+#EXTINF:-1,Zee Bangla Sonar [Backup 2]
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+#EXTINF:-1,Sony Max
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
+#EXTINF:-1,Star Gold 2 [Backup 1]
+http://107.167.16.138/stargold2/index.m3u8?token=test
+#EXTINF:-1,Zee Action [Backup 1]
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/967.ts
+#EXTINF:-1,Zee Action [Backup 2]
+http://107.167.16.138/zeeaction/index.m3u8?token=test
+#EXTINF:-1,Sony Entertainment TV
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/144.ts
+#EXTINF:-1,Zee TV [Backup 2]
+http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1,Star Movies
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/98842.ts
+#EXTINF:-1,Animal Planet
+https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1,Animal Planet [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/animal_planet_hd/index.m3u8
+#EXTINF:-1,Animal Planet [Backup 2]
+http://27.124.71.27/Animal_Planet/index.m3u8
+#EXTINF:-1,BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1,BBC Earth [Backup 2]
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+#EXTINF:-1,Love Nature
+https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1,Love Nature [Backup 1]
+https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+#EXTINF:-1,Love Nature [Backup 2]
+http://27.124.71.27/Love_Nature/index.m3u8
+#EXTINF:-1,TRAVEL XP [Backup 2]
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1,Travelxp Bangla
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/20622.ts
+#EXTINF:-1,Cartoon Network [Backup 2]
+https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
+#EXTINF:-1,Cartoon Network [Backup 3]
+https://drk6xq0vhn.gpcdn.net/live/cn_sd_abr/index.m3u8
+#EXTINF:-1,Cartoon Network HD+
+https://drk6xq0vhn.gpcdn.net/live/cn_hd_abr/index.m3u8
+#EXTINF:-1,Nick Bangla
+http://live.balajibroadband.com:3500/live/1341.m3u8
+#EXTINF:-1,Pogo [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/pogo_sd_abr/index.m3u8
+#EXTINF:-1,A Sports HD
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1,Star Sports 2
+https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+#EXTINF:-1,Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1,ATN Bangla [Backup 1]
+http://tvsen5.aynascope.net/atnbangla/index.m3u8
+#EXTINF:-1,Bangla Tv [Backup 1]
+https://tvsen6.aynaott.com/39ee93nUbCCmm5LsyD4t/index.m3u8
+#EXTINF:-1,Bijoy TV [Backup 2]
+https://drk6xq0vhn.gpcdn.net/live/bijoy_tv_abr/index.m3u8
+#EXTINF:-1,Channel 24 [Backup 1]
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/391.ts
+#EXTINF:-1,Channel S [Backup 1]
+https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
+#EXTINF:-1,Duronto TV [Backup 1]
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1,Ekattor TV [Backup 1]
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/428.ts
+#EXTINF:-1,Ekhon TV [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/ekhon_tv_abr/index.m3u8
+#EXTINF:-1,Ekushey TV [Backup 1]
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1,Ekushey TV [Backup 3]
+https://tvsen5.aynaott.com/SyQuXz8sC3TB/index.m3u8
+#EXTINF:-1,Ekushey TV [Backup 4]
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream2.m3u8
+#EXTINF:-1,Ekushey TV [Backup 5]
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1,Enter TV
+https://live1.entertv.com.bd/entertv/index.fmp4.m3u8
+#EXTINF:-1,Global TV
+http://116.204.149.16/globaltv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Green TV [Backup 1]
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/playlist.m3u8
+#EXTINF:-1,Independent TV
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/423.ts
+#EXTINF:-1,JA TV [Backup 1]
+https://dish.porosh.com.bd/hls/jtvnews.m3u8
+#EXTINF:-1,Maasranga TV
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
+#EXTINF:-1,Maasranga TV [Backup 2]
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/1036.ts
+#EXTINF:-1,Mohona TV [Backup 2]
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/397.ts
+#EXTINF:-1,My TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
+#EXTINF:-1,Nagorik [Backup 1]
+https://box.bbaria.net/Nagorik_TV/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nexus TV [Backup 1]
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1,NTV [Backup 1]
+https://tvsen5.aynaott.com/JHPxHAWonztVucyc4GzF/index.m3u8?e=1784102559&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d26add1c49d848c9199b708427134979
+#EXTINF:-1,Rajdhani (ALT) [Backup 1]
+https://drk6xq0vhn.gpcdn.net/live/rajdhani_tv/index.m3u8
+#EXTINF:-1,RTV [Backup 1]
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1,RTV [Backup 3]
+https://tvsen5.aynaott.com/ba47dHpDk3Se/index.m3u8
+#EXTINF:-1,RTV [Backup 4]
+https://tvsen5.aynaott.com/RtvHD/index.m3u8?e=1753741197&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=603a6374cb20aa96f523c1c04e820f85
+#EXTINF:-1,Sananda TV
+http://27.124.71.27/Sun_Bangla/index.m3u8
